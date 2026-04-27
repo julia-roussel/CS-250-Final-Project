@@ -1,5 +1,4 @@
 # CS-250-Final-Project
-Module 8 final portfolio submission
 
 Interpreting user needs means turning user stories into actionable and clear requirements. Users typically describe problems vaguely or in a solution focused way. The goal of the team is to ask questions and find the real goal, then turn it into a feature that can be delivered. User Stories are also useful for situations like this; they help by keeping the development focused on the outcomes. Also helps make it easier to break work into manageable tasks and track if task acceptance criteria have been met. 
 
